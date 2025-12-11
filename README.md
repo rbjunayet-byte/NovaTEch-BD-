@@ -1,2 +1,18 @@
-# NovaTEch-BD-
-Nova Tech BD - Official Dealer Portal Secure dealer login with Dual OTP (Email + WhatsApp), product catalog &amp; application system for Bangladesh.
+{
+  "name": "novatech-bd-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.280.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
